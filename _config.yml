@@ -1,7 +1,7 @@
 baseurl: 
 title: Tufte
 subtitle: Content-centric blogging
-author: Safrenze
+author: clay harmon
 simple_search: http://google.com/search
 description: A Jekyll theme for content-rich sites
 name: tufte
@@ -22,9 +22,9 @@ page:
   extension: md
 editor: gvim
 git:
-  branch: gp-pages
+  branch: master
 transfer:
   command: rsync
   settings: -av
   source: _site/
-  destination: safrenze.github.io
+  destination: ~/Git/safrenze.github.iom/
