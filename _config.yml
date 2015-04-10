@@ -1,4 +1,4 @@
-name: Photo gallery
+name: 艦隊これくしょん
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
