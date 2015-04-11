@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-04-11　13:22:21
+photo: 9.png
+caption_header: 飛龍
+caption: ひりゅう
+---
