@@ -2,6 +2,6 @@
 layout: default
 date:   2014-04-06 23:27:12
 photo: 7.png
-caption_header: Sample header
-caption: sample caption
+caption_header: 加賀
+caption: かが
 ---
